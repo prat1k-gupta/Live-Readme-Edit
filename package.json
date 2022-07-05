@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon index.js ",
-    "save": "node index.js && git add Readme.md && git commit -m 'Readme.md' && git push origin main"
+    "save": "node index.js && git add Readme.md && git commit -m 'updated' && git push origin main"
   },
   "author": "",
   "license": "ISC",
