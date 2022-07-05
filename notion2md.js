@@ -5,8 +5,6 @@ require("dotenv").config();
 
 const AUTH_TOKEN = process.env.AUTH_TOKEN; 
 const PAGE_ID = process.env.PAGE_ID; 
-// or
-// import {NotionToMarkdown} from "notion-to-md";
 
 const notion = new Client({
   auth: AUTH_TOKEN,
