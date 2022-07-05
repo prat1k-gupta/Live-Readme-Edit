@@ -67,3 +67,11 @@ const PORT = process.env.PORT;
 ```
 
 7. use the PORT anywhere in the code 
+
+# React js bootstrap 
+
+Install boostrap package for react js 
+
+```javascript
+npm install react-bootstrap bootstrap
+```
