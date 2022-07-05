@@ -1,4 +1,23 @@
 
-# New Readme
+# Mern App 
 
-ankit sujeet and pratik 
+npm i 
+
+this is pratik 
+
+what is up guys
+
+this is  a test on original project
+
+# sujeet
+
+| pratik | sujeet  |   |
+| ------ | ------- | - |
+|        |         |   |
+|        |         |   |
+
+```javascript
+npm install live
+```
+
+> _**satya vachan**_
