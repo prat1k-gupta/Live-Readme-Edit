@@ -30,3 +30,9 @@ link: https://www.notion.so/
 ```
 
 4. Create a new account or Login if already have one 
+
+5. Go to 
+
+```javascript
+link: 
+```
