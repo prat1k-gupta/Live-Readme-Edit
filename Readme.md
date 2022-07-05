@@ -34,5 +34,5 @@ link: https://www.notion.so/
 5. Go to 
 
 ```javascript
-link: 
+link: https://www.notion.so/my-integrations
 ```
