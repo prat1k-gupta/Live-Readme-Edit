@@ -34,7 +34,5 @@ link: https://www.notion.so/
 5. Go to 
 
 ```javascript
-link: https://developers.notion.com/
+link: [https://developers.notion.com/](https://developers.notion.com/)
 ```
-
-added a new url
