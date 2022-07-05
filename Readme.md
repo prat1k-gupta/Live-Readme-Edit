@@ -75,3 +75,9 @@ Install boostrap package for react js
 ```javascript
 npm install react-bootstrap bootstrap
 ```
+
+Create react-app 
+
+```javascript
+npx create-react-app file_name
+```

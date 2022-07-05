@@ -16,7 +16,7 @@ const n2m = new NotionToMarkdown({ notionClient: notion });
   const mdString = n2m.toMarkdownString(mdblocks);
 
   //writing to file
-  fs.writeFile("Readme.md", mdString, (err) => {
+  fs.writeFile("Readme.md",mdString, (err) => {
     console.log(err);
   });
 })();
