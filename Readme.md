@@ -82,8 +82,11 @@ Create react-app
 npx create-react-app file_name
 ```
 
-# test message
+Real time Readme edit in Notion
 
-this is pratik gupta and rohit singh
+```javascript
+npm i 
 
-this is our project
+sujeet and ankit
+
+```
